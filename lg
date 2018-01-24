@@ -1,0 +1,100 @@
+[33mcommit 10605d9a18130af2f01cc52a513d7d9a02450589[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e5f97e5 fe2a789
+Author: fdiaz <fdiaz@indra.es>
+Date:   Wed Jan 24 16:55:05 2018 +0100
+
+    Merge branch 'master' of https://github.com/alce65Indra/Curso_Git_01
+
+[33mcommit e5f97e53643399d126ab036d713eb008b2f88ed1[m
+Author: fdiaz <fdiaz@indra.es>
+Date:   Wed Jan 24 16:54:58 2018 +0100
+
+    Commit sobre Alce65Indra
+
+[33mcommit fe2a7894a1d3181e65823115c9a8045041742fdb[m
+Merge: 35fc9bc 2cb103c
+Author: Mario Diaz <mdiazf@indra.es>
+Date:   Wed Jan 24 16:54:54 2018 +0100
+
+    Merge branch 'master' of https://github.com/alce65Indra/Curso_Git_01
+
+[33mcommit 35fc9bc774345789aae9d0a488d0c09957d78681[m
+Author: Mario Diaz <mdiazf@indra.es>
+Date:   Wed Jan 24 16:52:09 2018 +0100
+
+    Commit Mario
+
+[33mcommit 2cb103c463aaad477886e673da31b68e1102545c[m
+Merge: 19b6032 a672fd2
+Author: osperi <osperi@gmail.com>
+Date:   Wed Jan 24 16:51:59 2018 +0100
+
+    Merge branch 'master' of https://github.com/alce65Indra/Curso_Git_01
+
+[33mcommit 19b6032dc74d5365d6410b1ec4625bbf5dbedcc7[m
+Merge: 869e3bf d92de7d
+Author: osperi <osperi@gmail.com>
+Date:   Wed Jan 24 16:51:16 2018 +0100
+
+    Merge branch 'master' of https://github.com/alce65Indra/Curso_Git_01
+
+[33mcommit a672fd28c12dbb7cc4b535334eca052ecd59b167[m
+Merge: 778f43d d92de7d
+Author: Mengano <jmbernalm@indra.es>
+Date:   Wed Jan 24 16:51:02 2018 +0100
+
+    Merge branch 'master' of https://github.com/alce65Indra/Curso_Git_01.git
+
+[33mcommit d92de7dd5f2e9c195822a75081e1c7c118cd18bb[m
+Author: VIC <vic@vic.com>
+Date:   Wed Jan 24 16:49:36 2018 +0100
+
+    Hola soy VIC84
+
+[33mcommit 778f43d8fe05a91a55fa77fc724b328d9394460c[m
+Author: Mengano <jmbernalm@indra.es>
+Date:   Wed Jan 24 16:49:25 2018 +0100
+
+    Commit de juanmi
+
+[33mcommit 869e3bfc80381b87d80b582f033e456804a20150[m
+Author: osperi <osperi@gmail.com>
+Date:   Wed Jan 24 16:48:16 2018 +0100
+
+    fichero de osperi
+
+[33mcommit dfedc1c1990a9cc0d945cbed3c35d855a4a95db0[m
+Author: alce65 <alce65@hotmail.es>
+Date:   Wed Jan 24 15:23:38 2018 +0100
+
+    Inicializacion Git
+
+[33mcommit 0fedd9cfc0d1dee820a30cdc9dad2bf973a1aa5e[m
+Author: alce65 <alce65@hotmail.es>
+Date:   Wed Jan 24 13:38:32 2018 +0100
+
+    Commit desde Tortoise
+
+[33mcommit 2586e5f265f2af4ca52e6dc9e558a0fc29203877[m
+Author: alce65 <alce65@hotmail.es>
+Date:   Wed Jan 24 13:34:07 2018 +0100
+
+    Comit 3
+
+[33mcommit 312fc54962c2cb283d1afa169ebfbceb3ff8bce7[m
+Author: alce65 <alce65@hotmail.es>
+Date:   Wed Jan 24 13:29:33 2018 +0100
+
+    Tercer commit
+
+[33mcommit 5c11f8b965c31327e910ea30025b2406a7c9c943[m
+Author: alce65 <alce65@hotmail.es>
+Date:   Wed Jan 24 13:27:06 2018 +0100
+
+    Comitt modificado
+
+[33mcommit a9aa2d42790556e12eeb04f220e5342e9f684e21[m
+Author: alce65 <alce65@hotmail.es>
+Date:   Wed Jan 24 13:11:51 2018 +0100
+
+    Comit de Fichero 1
